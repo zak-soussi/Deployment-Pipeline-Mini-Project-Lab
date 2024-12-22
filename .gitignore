@@ -1,1 +1,4 @@
 /venv-miniprojet1/
+.terraform
+terraform.tfvars
+terraform.tfstate
